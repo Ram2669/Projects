@@ -1,0 +1,65 @@
+INFO:root:client successfully connected to server
+INFO:root:server succesfully handle client
+INFO:root:server successfully connected to client
+INFO:root:server successfully connected to client
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+INFO:root:server successfully connected to client
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+INFO:root:server successfully connected to client
+INFO:root:server succesfully handle client
+ERROR:root:Failed to connect to server : {e1}
+INFO:root:server successfully connected to client
+INFO:root:server succesfully handle client
+ERROR:root:Failed to connect to server : {e1}
+INFO:root:server succesfully handle client
+ERROR:root:Failed to connect to server : {e1}
+INFO:root:server successfully connected to client
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+INFO:root:server successfully connected to client
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+INFO:root:server succesfully handle client
+ERROR:root:Failed to connect to server : {e1}
+INFO:root:server successfully connected to client
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+INFO:root:server successfully connected to client
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+INFO:root:server successfully connected to client
+ERROR:root:Word : ram not found
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+INFO:root:Word found in the file
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+INFO:root:server successfully connected to client
+INFO:root:Word found in the file
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+ERROR:root:Word : ram not found
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+INFO:root:server successfully connected to client
+INFO:root:Word found in the file
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+ERROR:root:Word : ram not found
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+INFO:root:server successfully connected to client
+INFO:root:Word found in the file
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
+ERROR:root:Word : ram not found
+INFO:root:server succesfully handle client
+INFO:root:client successfully connected to server
