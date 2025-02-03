@@ -11,7 +11,6 @@ To run the project follow the below steps:-
         ==> if you enter the worng file name as it is not in the directory then it will print "File not Found"
         then it it will ask for word to search:-
         Give word to search in the given line
-
         Then it will display all the lines which consists of given word
 
 
